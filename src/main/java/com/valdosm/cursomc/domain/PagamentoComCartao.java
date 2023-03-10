@@ -1,6 +1,6 @@
 package com.valdosm.cursomc.domain;
 
-import javax.persistence.Entity;
+import jakarta.persistence.Entity;
 
 import com.valdosm.cursomc.domain.enums.EstadoPagamento;
 
